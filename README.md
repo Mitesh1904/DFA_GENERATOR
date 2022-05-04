@@ -1,6 +1,11 @@
 # DFA_GENERATOR
 
+This is code for convert any regular expersion to the Deterministic Finite Automata
+
 ## Requirements
+
+For run this code we required following modules along with python (3.9.3)
+
 1.  	PIL
 2.  	Pydot
 3.  	graphviz
