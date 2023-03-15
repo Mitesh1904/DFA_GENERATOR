@@ -22,4 +22,4 @@ example : os.environ["PATH"] += os.pathsep + "C:/Program Files/Graphviz/bin"
 
 ## Graphviz download link: https://graphviz.org/download/
 
-## Video link : https://youtu.be/DGi-VpgZaL0
+## Video link : https://youtu.be/DGi-VpgZaL0 (Version 1.0)
